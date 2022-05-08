@@ -1,4 +1,4 @@
-import Sales_Receipt_Module.py #Importing the module with the class needed
+import Sales_Receipt_Module #Importing the module with the class needed
 from tkinter import * #Importing tkinter
 from tkinter import filedialog #Importing filedialog from tkinter
 import os #Importing needed operating system components
